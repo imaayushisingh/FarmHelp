@@ -1,27 +1,23 @@
-# Farmi
-## Your Farming consultant
+# FarmHelp: Your Farming Consultant
 
 ## Inspiration 💡
-In todays condition farming became very difficult which is very important part of our India.
-Taking good crop with good yield is vry important. So we decided to do this project. 
+Farming is a crucial part of India's economy, yet it has become increasingly challenging. Ensuring good crop yields is essential. This project aims to address these challenges and support farmers in achieving better results.
 
-## What it does 🤖
-- Farmi is basically a crop predictor which helps to predict crop on the basis of Soil sample analysis and the rainfall in that area.
-- it helps people to connect with new technology of Farming with blogs.
+## What It Does 🤖
+- **FarmHelp** is a crop prediction tool that helps farmers by analyzing soil samples and rainfall data to suggest the most suitable crops.
+- It connects farmers with the latest farming technologies through informative blogs.
 
+## How We Built It 😌
+- The website's UI/UX was designed using Figma and then developed with HTML, CSS, and JavaScript.
+- Flask is used for the backend processes.
+- Scikit-Learn's linear regression is utilized to predict the best crops for specific conditions.
 
-## How We built it 😌
-- The website UI/UX was designed using Figma and then developed using HTML, CSS and JavaScript.
-- Flask is used for backend process.
-- Scikit-Learn Liear regression is used to predict crop. 
+## What's Next for FarmHelp 📈
+- We plan to add a contact feature that facilitates direct communication between farmers and organizations for soil sample analysis and crop yield guidance.
+- Additionally, we aim to introduce a person-to-person video guidance feature, providing farmers with consultancy from farming experts.
 
-## What's next for Farmi 📈
-- Next we are planning to a built contact feature which will make direct contact between farmer and organization which will guide for soil sample analysis and crop yield.
-- Also we are planning to build person to person video guidance which help to get consultancy from experts in Farming.
-
-## Tools used ⚙
--Python (for Crop predicion)
--Flask (Web backend)
--HTML + CSS (Web frontend)
--Heroku (Deployment)
-"# FarmHelp" 
+## Tools Used ⚙
+- **Python** (for crop prediction)
+- **Flask** (for web backend)
+- **HTML + CSS** (for web frontend)
+- **Heroku** (for deployment)
